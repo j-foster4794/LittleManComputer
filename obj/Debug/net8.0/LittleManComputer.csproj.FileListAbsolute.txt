@@ -1,0 +1,15 @@
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\bin\Debug\net8.0\LittleManComputer.exe
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\bin\Debug\net8.0\LittleManComputer.deps.json
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\bin\Debug\net8.0\LittleManComputer.runtimeconfig.json
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\bin\Debug\net8.0\LittleManComputer.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\bin\Debug\net8.0\LittleManComputer.pdb
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\LittleManComputer.GeneratedMSBuildEditorConfig.editorconfig
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\LittleManComputer.AssemblyInfoInputs.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\LittleManComputer.AssemblyInfo.cs
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\LittleManComputer.csproj.CoreCompileInputs.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\LittleManComputer.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\refint\LittleManComputer.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\LittleManComputer.pdb
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\LittleManComputer.genruntimeconfig.cache
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\ref\LittleManComputer.dll
+H:\JamesSchoolWork\ALevel\CompSci\Coding\LearningC#\SmallProjects\LittleManComputer\obj\Debug\net8.0\LittleManComputer.sourcelink.json
